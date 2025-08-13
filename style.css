@@ -1,0 +1,13 @@
+.courses{
+    background-color: aliceblue;
+    border: 1px soild gray;
+    padding: 20px;
+}
+h5{
+    background-color: whitesmoke;
+    height: 24px;
+}
+button{
+    color: white;
+    background-color: blue;
+}
