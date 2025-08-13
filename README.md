@@ -1,8 +1,4 @@
-Here’s a simple but professional README for your **TimeJob web scraping** project:
-
----
-
-# TimeJob Web Scraper
+TimeJob Web Scraper
 
 A Python-based web scraping tool that extracts job listings from **TimeJob**, including job title, company, location, and posting date. The data is cleaned, structured, and stored for further analysis or reporting.
 
